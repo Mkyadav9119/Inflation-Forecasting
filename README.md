@@ -55,7 +55,7 @@ The study follows a structured approach to analyzing inflation trends:
 - Using **machine learning models** for advanced inflation forecasting.
 
 ## Contributors
--  Monu Yada
+-  **Monu Yadav**
 - **Institution:** Gokhale Institute of Politics and Economics, Pune.
 
 This project provides a **data-driven perspective on inflation dynamics** and serves as a valuable resource for policymakers, economists, and researchers.
